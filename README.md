@@ -20,7 +20,7 @@ git clone https://github.com/thisSumit/To-Do_List
 
 
 ```bash
-cd index.html
+cd To-Do_List
 ```
 
 
